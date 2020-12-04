@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ProjectWinformDB
 {
-    public partial class MainForm : System.Windows.Forms.Form
+    public partial class ModifyProducts : Form
     {
-        public MainForm()
+        public ModifyProducts()
         {
             InitializeComponent();
-        }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-            string connection
         }
     }
 }
