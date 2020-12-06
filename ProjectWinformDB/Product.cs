@@ -23,7 +23,7 @@ namespace ProjectWinformDB
 
         public override string ToString()
         {
-            return $"{ProductModel}, {Description}, {Name}, {ProductNumber}, {Color}, {ListPrice}, {Size}, {ProductLine}, {Class}, {Style}, {ProductCategory}, {ProductSubcategory}";
+            return $"{ProductModel}/ {Description}/ {Name}/ {ProductNumber}/ {Color}/ {ListPrice}/ {Size}/ {ProductLine}/ {Class}/ {Style}/ {ProductCategory}/ {ProductSubcategory}";
         }
     }
 }
